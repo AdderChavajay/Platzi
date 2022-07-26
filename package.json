@@ -1,0 +1,15 @@
+{
+  "name": "nodeasync",
+  "version": "1.0.0",
+  "description": "Async Await add node-fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chavajay",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.9"
+  },
+  "type": "module"
+}
